@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T04:25:58.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 YaBrowser/21.8.3.614 Yowser/2.5 Safari/537.36" etag="Rn4wX1X4xnugKrfx29fs" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T04:35:54.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 YaBrowser/21.8.3.614 Yowser/2.5 Safari/537.36" etag="kSGSZt2I2SsKMbQhR-Yw" version="15.3.7" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="77e6c97f196da883-2" value="Пользователь СЭД &quot;ДЕЛО&quot;" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-2" value="Сотрудник" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="580" height="740" as="geometry" />
         </mxCell>
         <mxCell id="zrJCjYh_0S9Y-TUbLaX2-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="77e6c97f196da883-2" source="zrJCjYh_0S9Y-TUbLaX2-2" target="zrJCjYh_0S9Y-TUbLaX2-3" edge="1">
@@ -87,7 +87,7 @@
         <mxCell id="zrJCjYh_0S9Y-TUbLaX2-11" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="195" y="492" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-3" value="Специалист СЭД &quot;ДЕЛО&quot;" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-3" value="Исполнитель заявки" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="580" y="20" width="520" height="740" as="geometry" />
         </mxCell>
         <mxCell id="zrJCjYh_0S9Y-TUbLaX2-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="77e6c97f196da883-3" source="zrJCjYh_0S9Y-TUbLaX2-14" target="zrJCjYh_0S9Y-TUbLaX2-24" edge="1">
