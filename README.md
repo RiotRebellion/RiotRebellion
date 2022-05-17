@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiotRebellion
+- 👋 Hi, My name is Misha Dzhurmiy
 - 👀 I’m interested in developing sustainable, scalable software and improvement developer's skills 
 - 🌱 I’m currently learning design patterns, architectural principles
 
